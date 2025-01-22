@@ -7,8 +7,10 @@
 
 ## Top Languages
 
+<p align="left">
 <img src="https://img.shields.io/badge/Html-2A2A2A?style=for-the-badge&logo=htmx&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-2A2A2A?style=for-the-badge&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-2A2A2A?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-2A2A2A?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-2A2A2A?style=for-the-badge&logo=python&logoColor=white" />
+</p>
