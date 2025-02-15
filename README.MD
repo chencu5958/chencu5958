@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/TypeScript-2A2A2A?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-2A2A2A?style=for-the-badge&logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-2A2A2A?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2A2A2A?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
 ## Tools
