@@ -1,4 +1,7 @@
 <!-- Yolo -->
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Stay%20Hungry,%20Stay%20Foolish&fontAlign=50&animation=fadeIn&section=header&textBg=false&fontSize=55&fontColor=222222&desc=Just%20Do%20it%20|%20Keep%20Simple&descSize=15&fontAlignY=35)
+
 ## Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=chencu5958&layout=compact&show_icons=true&count_private=true&include_all_commits=true&title_color=8AFF80&text_color=F8F8F2&icon_color=708CA9&bg_color=222222)
